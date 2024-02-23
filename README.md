@@ -7,6 +7,6 @@ ICPC/CCPC 赛事涉及到的算法笔记及其代码模板，另外包含一些�
 
 希望这份笔记仍能发挥其一些余热，帮助到参与 ICPC/CCPC 赛事的更多人。
 
-- src 文件夹包含该笔记的所有 Markdown 源码和图片。
+- src 文件夹包含该笔记的所有 Markdown 源码和图片，部分 $\LaTeX$ 公式因显示问题可在 [CSDN](https://blog.csdn.net/bzjr_Log_x) 或下载到本地查看。
 - export 文件夹包含 src 文件夹导出的所有 pdf 文件。
 - references 文件夹包含参考的其它算法代码模板和相关文献。
